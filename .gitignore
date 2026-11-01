@@ -23,3 +23,7 @@ Thumbs.db
 *.7z
 # Raw source dataset
 Sample_data/
+
+# Temporary Word files
+~$*
+~WRL*.tmp
